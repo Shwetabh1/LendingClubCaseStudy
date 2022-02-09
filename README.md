@@ -9,32 +9,39 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Lending loan to risky applicants leads to financial loss.
+- I have analysed what kind of loans are usually taken.
+- I have analysed what are the factors that can help us determine which customer is likely to default.
+- And I present recommendations to avoid it.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+### Understanding who are taking loans and what kind of loans are being taken.
+- Most people who are taking loans and defaulting are living in rented homes.
+- Around 14.78% of the loan are currently defaulted.
+- Debt Consolidation is the most popular category for loans.
+- Most of the loans are being taken for less amount around 5000/-.
+- The loan amount varies from 0 to 15,000 having mean of 10,000.
+- People with 10+ years of work experince apply for most of the loans. And people with 0-1 - years experince are the second most category of people applying for loans.
+- Average interest rate is around 12%.
 
+### Driving Factors for loan default.
+- High grade loans are likely to be defaulted.
+- Loan being granted to the people of California is likely to be defaulted.
+- High interest rate loan has a high chance of being defaulted.
+- People who have defaulted before have a higer chance of defaulting again.
+- Those with 0-1 years of experience has higher chances of defaulting loan.
+- Person availing loan for Small Buisness has a high chances of defaulting it.
+- People taking loans in the income range of 10,000-15,000 has a high chances of defaulting the loan.
+- Those who take 60 months to repay the loan have a higher chance of defaulting the loan.
 
 ## Technologies Used
 - Python - version 3.9
 - Pandas - version 1.0
 - Numpy - version 2.0
 - Seaborn - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
 Created by [@shwetabh1] - feel free to contact me!
