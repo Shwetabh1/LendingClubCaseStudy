@@ -3,7 +3,6 @@
 
 
 ## Table of Contents
-* [Repository Structure] (#repository-structure)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
